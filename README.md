@@ -11,6 +11,10 @@
 
 * 课程内容：课程会介绍各种宏观经济学中的常用术语，学习宏观变量间的相互关系。我们会依据曼昆教材的逻辑脉络将宏观经济学模型分为“长期的经济”、“超长期的经济”、“短期的经济”逐步进行介绍。在“长期的经济”与“短期的经济”中，我们将围绕生产、货币、国际贸易、就业，探讨它们相互之间的影响，以及对宏观经济体的整体作用，并比较长短期的影响（价格是否具有黏性）对上面提到的四个部分的影响。在“超长期的经济”中，我们会学习经济体是如何增长的，以及影响增长的重要变量及相关政策。
 
+A. 导言
+    第一章：宏观经济的科学，[Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
+    第二章：宏观经济学的数据，介绍三种变量：国内生产总值（GDP）；消费者价格指数（CPI）；失业率；[Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/2%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84%E6%95%B0%E6%8D%AE.pdf)
+
 
 讲义：[课程大纲](https://github.com/EddyKK/Macroeconomics-2023spring/blob/main/%E5%AE%8F%E8%A7%82%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2--2023%E6%98%A5.pdf)；
 [第一章：宏观经济的科学](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%C2%B7%E4%BB%8B%E7%BB%8D.pdf)； 
