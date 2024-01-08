@@ -14,9 +14,11 @@
 ---
 ### A、导言
 
-#### 第一章：宏观经济的科学，[Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
+#### 第一章：宏观经济的科学 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
     
-#### 第二章：宏观经济学的数据，介绍三种变量：国内生产总值（GDP）；消费者价格指数（CPI）；失业率；[Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/2%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84%E6%95%B0%E6%8D%AE.pdf)
+#### 第二章：宏观经济学的数据 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/2%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84%E6%95%B0%E6%8D%AE.pdf)
+
+介绍三种变量：国内生产总值（GDP）；消费者价格指数（CPI）；失业率；
 
 ---
 ### B、古典理论：中长期中的经济
@@ -43,13 +45,15 @@
 
 ### D、经济周期理论：短期中的经济
 
-#### 第十章：经济波动导论 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
+#### 第十章：经济波动导论 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/10%E3%80%81%E7%BB%8F%E6%B5%8E%E6%B3%A2%E5%8A%A8%E5%AF%BC%E8%AE%BA.pdf)；[Notes]()
 
-#### 第十一章：总需求I：建立IS-LM模型 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
+#### 第十一章：总需求I：建立IS-LM模型 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/11%E3%80%81%E6%80%BB%E9%9C%80%E6%B1%82I.pdf)；[Notes]()
 
-#### 第十二章：总需求II：应用IS-LM模型 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
+#### 第十二章：总需求II：应用IS-LM模型 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/12%E3%80%81%E6%80%BB%E9%9C%80%E6%B1%82II.pdf)；[Notes]()
 
-#### 第十三章：重访开放经济：蒙代尔-弗莱明模型与汇率制度 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
+#### 第十三章：重访开放经济：蒙代尔-弗莱明模型与汇率制度 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/13%E3%80%81%E8%92%99%E4%BB%A3%E5%B0%94%E5%BC%97%E8%8E%B1%E6%98%8E%E6%A8%A1%E5%9E%8B.pdf)；[Notes]()
 
-#### 第十四章：总供给与通货膨胀和失业之间的短期权衡；菲利普斯曲线
+#### 第十四章：总供给与通货膨胀和失业之间的短期权衡 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/14%E3%80%81%E6%80%BB%E4%BE%9B%E7%BB%99%E4%B8%8E%E8%8F%B2%E5%88%A9%E6%99%AE%E6%96%AF%E6%9B%B2%E7%BA%BF.pdf)；[Notes]()
+
+菲利普斯曲线
 
