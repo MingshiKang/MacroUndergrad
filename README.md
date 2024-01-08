@@ -11,42 +11,45 @@
 
 * 课程内容：课程会介绍各种宏观经济学中的常用术语，学习宏观变量间的相互关系。我们会依据曼昆教材的逻辑脉络将宏观经济学模型分为“长期的经济”、“超长期的经济”、“短期的经济”逐步进行介绍。在“长期的经济”与“短期的经济”中，我们将围绕生产、货币、国际贸易、就业，探讨它们相互之间的影响，以及对宏观经济体的整体作用，并比较长短期的影响（价格是否具有黏性）对上面提到的四个部分的影响。在“超长期的经济”中，我们会学习经济体是如何增长的，以及影响增长的重要变量及相关政策。
 
-### 第一篇、导言
+---
+### A、导言
 
 #### 第一章：宏观经济的科学，[Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
     
 #### 第二章：宏观经济学的数据，介绍三种变量：国内生产总值（GDP）；消费者价格指数（CPI）；失业率；[Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/2%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84%E6%95%B0%E6%8D%AE.pdf)
 
+---
+### B、古典理论：中长期中的经济
 
-### 第二篇、古典理论：中长期中的经济
+#### 第三章：国民收入:源自何处?去向何方? [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/3%E3%80%81%E5%9B%BD%E6%B0%91%E6%94%B6%E5%85%A5.pdf)；[Notes]()
 
-#### 第三章：国民收入:源自何处?去向何方? 
+#### 第四章：货币系统:它是什么?如何起作用? [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/4%E3%80%81%E8%B4%A7%E5%B8%81%E7%B3%BB%E7%BB%9F.pdf)；[Notes]()
 
-#### 第四章：货币系统:它是什么?如何起作用?
+#### 第五章：通货膨胀：起因、影晌和社会成本 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/5%E3%80%81%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80.pdf)；[Notes]()
 
-#### 第五章：通货膨胀：起因、影晌和社会成本
+#### 第六章：开放的经济 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/6%E3%80%81%E5%BC%80%E6%94%BE%E7%9A%84%E7%BB%8F%E6%B5%8E.pdf)；[Notes]()
 
-#### 第六章：开放的经济
+#### 第七章：失业 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/7%E3%80%81%E5%A4%B1%E4%B8%9A%2B%E5%8F%A4%E5%85%B8%E7%BB%8F%E6%B5%8E%E5%B0%8F%E7%BB%93.pdf)；[Notes]()
 
-#### 第七章：失业
+---
 
+### C、增长理论：超长期中的经济
 
-### 第三篇、增长理论：超长期中的经济
+#### 第八章：经济增长I：资本积累与人口增长；索洛增长模型（Solow Model）的介绍 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/8%E3%80%81%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BFI.pdf)；[Notes]()
 
-#### 第八章：经济增长I：资本积累与人口增长；索洛增长模型（Solow Model）的介绍
+#### 第九章：经济增长II：技术、经验和政策；索洛模型的延伸 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/9%E3%80%81%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BFII.pdf)；[Notes]()
 
-#### 第九章：经济增长II：技术、经验和政策；索洛模型的延伸
+---
 
+### D、经济周期理论：短期中的经济
 
-### 第四篇、经济周期理论：短期中的经济
+#### 第十章：经济波动导论 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
 
-#### 第十章：经济波动导论
+#### 第十一章：总需求I：建立IS-LM模型 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
 
-#### 第十一章：总需求I：建立IS-LM模型
+#### 第十二章：总需求II：应用IS-LM模型 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
 
-#### 第十二章：总需求II：应用IS-LM模型 
-
-#### 第十三章：重访开放经济：蒙代尔-弗莱明模型与汇率制度
+#### 第十三章：重访开放经济：蒙代尔-弗莱明模型与汇率制度 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/1%E3%80%81%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BB%8B%E7%BB%8D.pdf)；[Notes]()
 
 #### 第十四章：总供给与通货膨胀和失业之间的短期权衡；菲利普斯曲线
 
