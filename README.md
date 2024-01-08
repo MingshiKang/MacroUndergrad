@@ -47,11 +47,11 @@
 
 #### 第十章：经济波动导论 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/10%E3%80%81%E7%BB%8F%E6%B5%8E%E6%B3%A2%E5%8A%A8%E5%AF%BC%E8%AE%BA.pdf)；[Notes](https://github.com/MingshiKang/MacroUndergrad/blob/main/Notes/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%C2%B7%20%E7%BB%8F%E6%B5%8E%E6%B3%A2%E5%8A%A8%E5%AF%BC%E8%AE%BA.pdf)
 
-#### 第十一章：总需求I：建立IS-LM模型 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/11%E3%80%81%E6%80%BB%E9%9C%80%E6%B1%82I.pdf)；[Notes](https://github.com/MingshiKang/MacroUndergrad/blob/main/Notes/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%20%C2%B7%20%20%E6%80%BB%E9%9C%80%E6%B1%82I%20%EF%BC%882023%EF%BC%89.pdf)
+#### 第十一章：总需求I：建立IS-LM模型 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/11%E3%80%81%E6%80%BB%E9%9C%80%E6%B1%82I.pdf)；[Notes](https://github.com/MingshiKang/MacroUndergrad/blob/main/Notes/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%20%C2%B7%20%20%E6%80%BB%E9%9C%80%E6%B1%82I%20.pdf)
 
 #### 第十二章：总需求II：应用IS-LM模型 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/12%E3%80%81%E6%80%BB%E9%9C%80%E6%B1%82II.pdf)；[Notes](https://github.com/MingshiKang/MacroUndergrad/blob/main/Notes/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%20%C2%B7%20%E6%80%BB%E9%9C%80%E6%B1%82II%20.pdf)
 
-#### 第十三章：重访开放经济：蒙代尔-弗莱明模型与汇率制度 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/13%E3%80%81%E8%92%99%E4%BB%A3%E5%B0%94%E5%BC%97%E8%8E%B1%E6%98%8E%E6%A8%A1%E5%9E%8B.pdf)；[Notes](https://github.com/MingshiKang/MacroUndergrad/blob/main/Notes/%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0%20%C2%B7%20%E8%92%99%E4%BB%A3%E5%B0%94%E5%BC%97%E8%8E%B1%E6%98%8E%E6%A8%A1%E5%9E%8B%EF%BC%882022%EF%BC%89.pdf)
+#### 第十三章：重访开放经济：蒙代尔-弗莱明模型与汇率制度 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/13%E3%80%81%E8%92%99%E4%BB%A3%E5%B0%94%E5%BC%97%E8%8E%B1%E6%98%8E%E6%A8%A1%E5%9E%8B.pdf)；[Notes](https://github.com/MingshiKang/MacroUndergrad/blob/main/Notes/%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0%20%C2%B7%20%E8%92%99%E4%BB%A3%E5%B0%94%E5%BC%97%E8%8E%B1%E6%98%8E%E6%A8%A1%E5%9E%8B.pdf)
 
 #### 第十四章：总供给与通货膨胀和失业之间的短期权衡 [Slides](https://github.com/MingshiKang/MacroUndergrad/blob/main/Slides/14%E3%80%81%E6%80%BB%E4%BE%9B%E7%BB%99%E4%B8%8E%E8%8F%B2%E5%88%A9%E6%99%AE%E6%96%AF%E6%9B%B2%E7%BA%BF.pdf)；[Notes](https://github.com/MingshiKang/MacroUndergrad/blob/main/Notes/%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0%20%C2%B7%20%E8%8F%B2%E5%88%A9%E6%99%AE%E6%96%AF%E6%9B%B2%E7%BA%BF.pdf)
 
